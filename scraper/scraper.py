@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import json
-import codecs
-import random
 i=0
 lis = {}
 for j in range (1,12):
