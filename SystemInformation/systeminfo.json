@@ -1,0 +1,68 @@
+{
+    "Battery Information": {
+        "Battery Percentage": 96,
+        "Battery Time Left": "4:14:19"
+    },
+    "CPU Information": {
+        "CPU count": 2,
+        "CPU utilisation percent": [
+            0.0,
+            50.0,
+            50.0,
+            0.0,
+            0.0
+        ],
+        "Current CPU frequency": 2492.0,
+        "Maximum CPU frequency": 2592.0,
+        "Minimum CPU frequency": 0.0
+    },
+    "Disk Partitions": {
+        "C:\\": {
+            "Disk Type": "NTFS",
+            "Mount Point": "C:\\",
+            "Name": "C:\\"
+        },
+        "D:\\": {
+            "Disk Type": "NTFS",
+            "Mount Point": "D:\\",
+            "Name": "D:\\"
+        },
+        "E:\\": {
+            "Disk Type": "NTFS",
+            "Mount Point": "E:\\",
+            "Name": "E:\\"
+        }
+    },
+    "RAM": {
+        "Available": "3.9232711791992188GB",
+        "Total": "7.867256164550781GB",
+        "Used": "3.9439849853515625GB"
+    },
+    "System Information": {
+        "Machine": "AMD64",
+        "OS": "Windows",
+        "Platform": "Windows-10-10.0.14393-SP0",
+        "Release": "10",
+        "Version": "10.0.14393"
+    },
+    "Usage of C:\\": {
+        "Free": "159.80244064331055GB",
+        "Total": "476.18163681030273GB",
+        "Used": "316.3791961669922GB"
+    },
+    "Usage of D:\\": {
+        "Free": "33.60929489135742GB",
+        "Total": "458.98437118530273GB",
+        "Used": "425.3750762939453GB"
+    },
+    "Usage of E:\\": {
+        "Free": "136.88864517211914GB",
+        "Total": "402.87011337280273GB",
+        "Used": "265.9814682006836GB"
+    },
+    "User Information": {
+        "Host": "0.188.76.129",
+        "Terminal": null,
+        "UserName": "ashri"
+    }
+}
