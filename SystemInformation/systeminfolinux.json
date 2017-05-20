@@ -1,0 +1,83 @@
+{
+    "Battery Information": {
+        "Battery Percentage": 82.05471096096096, 
+        "Battery Time Left": "4:17:49"
+    }, 
+    "CPU Information": {
+        "CPU count": 2, 
+        "CPU utilisation percent": [
+            33.3, 
+            0.0, 
+            0.0, 
+            66.7, 
+            0.0, 
+            0.0, 
+            0.0, 
+            0.0, 
+            0.0, 
+            0.0
+        ], 
+        "Current CPU frequency": 420.13824999999997, 
+        "Maximum CPU frequency": 3100.0, 
+        "Minimum CPU frequency": 400.0
+    }, 
+    "Disk Partitions": {
+        "/dev/sda4": {
+            "Disk Type": "ext4", 
+            "Mount Point": "/home", 
+            "Name": "/dev/sda4"
+        }, 
+        "/dev/sda5": {
+            "Disk Type": "ext4", 
+            "Mount Point": "/", 
+            "Name": "/dev/sda5"
+        }, 
+        "/dev/sda6": {
+            "Disk Type": "ext4", 
+            "Mount Point": "/boot", 
+            "Name": "/dev/sda6"
+        }, 
+        "/dev/sdb1": {
+            "Disk Type": "vfat", 
+            "Mount Point": "/boot/efi", 
+            "Name": "/dev/sdb1"
+        }
+    }, 
+    "RAM": {
+        "Available": "6.7502822876GB", 
+        "Total": "7.66850280762GB", 
+        "Used": "0.597316741943GB"
+    }, 
+    "System Information": {
+        "Machine": "x86_64", 
+        "OS": "Linux", 
+        "Platform": "Linux-4.3.0-kali1-amd64-x86_64-with-Kali-kali-rolling-kali-rolling", 
+        "Release": "4.3.0-kali1-amd64", 
+        "Version": "#1 SMP Debian 4.3.3-5kali4 (2016-01-13)"
+    }, 
+    "Usage of /dev/sda4": {
+        "Free": "0.009765625GB", 
+        "Total": "0.009765625GB", 
+        "Used": "0.0GB"
+    }, 
+    "Usage of /dev/sda5": {
+        "Free": "0.009765625GB", 
+        "Total": "0.009765625GB", 
+        "Used": "0.0GB"
+    }, 
+    "Usage of /dev/sda6": {
+        "Free": "0.009765625GB", 
+        "Total": "0.009765625GB", 
+        "Used": "0.0GB"
+    }, 
+    "Usage of /dev/sdb1": {
+        "Free": "0.009765625GB", 
+        "Total": "0.009765625GB", 
+        "Used": "0.0GB"
+    }, 
+    "User Information": {
+        "Host": "localhost", 
+        "Terminal": "tty2", 
+        "UserName": "root"
+    }
+}
