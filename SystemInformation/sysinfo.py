@@ -55,9 +55,6 @@ lis["Battery Information"]={}
 battery = psutil.sensors_battery()
 lis["Battery Information"]["Battery Percentage"]=battery.percent
 lis["Battery Information"]["Battery Time Left"]=secs2hours(battery.secsleft)
-
-#OrderedDict(sorted(lis.items(), key=lambda t: t[0]))
-
         
 with open('systeminfo.json', 'w') as outfile:
         outfile.write(json.dumps(lis,sort_keys=True, ensure_ascii=False,indent = 4,))
